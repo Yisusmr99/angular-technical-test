@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+@import "~leaflet/dist/leaflet.css";
+
+/* .map-container {
+    height: 500px;
+    width: 50%;
+} */
+
+@import "~bootstrap/dist/css/bootstrap.css"
